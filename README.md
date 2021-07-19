@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Despcription of Project
+
+The use of firestore is for saving images, and the firedatabase is to recieve the information (url) of those uploaded images.
+
 ## Available Scripts
 
 In the project directory, you can run:

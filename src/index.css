@@ -33,9 +33,18 @@ body{
 
 
 /* progress bar styles */
-
+.progress-bar {
+  height: 5px;
+  background: var(--primary);
+  margin-top: 20px;
+}
 
 /* image grid styles */
-
+.img-grid{
+  margin: 20px auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 40px;
+}
 
 /* modal styles */
