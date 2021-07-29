@@ -4,8 +4,8 @@ The use of firestore is for saving images, and the firedatabase is to recieve th
 
 ## Tools used:
 
-Check out the original author that helped me learn use firebase and do this project:
-GITHUB repo: (https://github.com/iamshaunjp/firegram/tree/final-files/src)
+Check out the original author that helped me learn use firebase and do this project: <br />
+GITHUB repo: (https://github.com/iamshaunjp/firegram/tree/final-files/src) <br />
 YOUTUBE instructive video: (https://youtu.be/vUe91uOx7R0)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
