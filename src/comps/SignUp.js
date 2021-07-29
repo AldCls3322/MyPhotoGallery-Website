@@ -21,7 +21,6 @@ function SignUp(props) {
 
     return (
         <div className="signin">
-            <img src={image} alt="Sign Up Logo"/>
             <h1>Sign in to the Photo Gallery</h1>
             <button onClick={()=>signIn()}>
                 Sign In With Google
