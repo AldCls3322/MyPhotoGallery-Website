@@ -2,6 +2,8 @@
 
 The use of firestore is for saving images, and the firedatabase is to recieve the information (url) of those uploaded images.
 
+[LINK OF DEPLOYED WEBPAGE](https://romantic-shockley-f6f374.netlify.app/)
+
 ## Tools used:
 
 Check out the original author that helped me learn use firebase and do this project: <br />
